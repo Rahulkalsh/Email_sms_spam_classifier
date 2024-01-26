@@ -1,6 +1,5 @@
-streamlit
-nltk
-string
+streamlit==0.85.1
+nltk==3.8.1
 nltk.corpus
 nltk.tokenize
 nltk.stem.porter
