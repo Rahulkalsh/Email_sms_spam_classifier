@@ -9,20 +9,25 @@
     align-items: center;
     justify-content: center;
 }
-.st-emotion-cache-10trblm{
+.st-emotion-cache-k7vsyb span{
     color: aqua;
     background-color: black;
+    opacity: 0.7;
 
 }
-.st-emotion-cache-1qg05tj{
+
+.st-emotion-cache-1yril67 p{
     color: aqua;
     background-color: black;
+    opacity: 0.7;
 }
-.st-ae{
-color: aqua;
+
+.st-c0{
+    color: aqua !important;
+    font-weight: bold !important;
 }
 .st-af{
-    opacity: 0.5;
+    opacity: 0.7;
 }
 /* .appview-container{
      background-color: blue;
