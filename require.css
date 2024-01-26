@@ -1,0 +1,29 @@
+.stApp{
+    margin: 0;
+    padding: 0;
+    background-image: url("https://source.unsplash.com/1600x900/?gmail");
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* 100% of the viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.st-emotion-cache-10trblm{
+    color: aqua;
+    background-color: black;
+
+}
+.st-emotion-cache-1qg05tj{
+    color: aqua;
+    background-color: black;
+}
+.st-ae{
+color: aqua;
+}
+.st-af{
+    opacity: 0.5;
+}
+/* .appview-container{
+     background-color: blue;
+} */
